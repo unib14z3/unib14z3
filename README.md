@@ -26,5 +26,10 @@ that's way too ambitious for one person.
 ---
 
 ## My Skills 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,js,nodejs,cpp,dotnet,html,css,blender,linux,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,js,nodejs,cpp,cs,html,css,blender,linux,godot)](https://skillicons.dev)
 
+---
+
+**Credits**
+- Profile Inspiration [Daria Stanilevici](https://github.com/daria-stanilevici/daria-stanilevici)
+- Terminal GIF made on [handy-dev.tools/terminal-gif-generator](https://handy-dev.tools/terminal-gif-generator)
