@@ -9,7 +9,6 @@ trees and graph visualizers with Dijkstra running under the hood.
 
 Currently obsessed with:
 - 🎮 Game dev in **Godot 4** (GDScript + component-based architecture)
-- 🦀 Learning **Rust** for systems-level projects
 - 🐧 Living inside **CachyOS** and making Linux do my bidding
 - 🤖 Building tools that make student life less chaotic
 
@@ -26,7 +25,7 @@ that's way too ambitious for one person.
 ---
 
 ## My Skills 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,js,nodejs,cpp,cs,html,css,blender,linux,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,cpp,cs,html,css,blender,linux,godot)](https://skillicons.dev)
 
 ---
 
